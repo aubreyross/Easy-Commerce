@@ -1,5 +1,6 @@
 # Easy-Commerce
-
+Easy-Commerce was configured as the back end for an e-commerce site, working with Express.js API and Sequelize to interact with a MySQL database.
+A walkthrough video is included below which demonstrates the back-end functionality. 
 
 ## User Story
 
